@@ -1,0 +1,25 @@
+body{background-color: rgb(168, 223, 113);}
+
+h1{ color: red;
+font-style: italic;
+font-size: 30px;
+text-decoration: solid;}
+
+h2{ color:blue;
+    text-transform: uppercase; 
+    text-align: justify;
+    text-decoration: underline;
+}
+
+ul{color: green;
+font-family: arial;
+font-size: 20px;
+text-transform: uppercase;
+text-align: justify;
+text-decoration-line: overline;
+}
+p{ text-indent: 30px;
+color: blueviolet;}
+
+p{background-color: aquamarine;}
+
